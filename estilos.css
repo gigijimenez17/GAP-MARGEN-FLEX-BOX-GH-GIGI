@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+.links{
+    margin: 20px;
+    padding: 20px;
+    display: inline-flex;
+    background: steelblue;
+    flex-direction: column;
+}
+
+.link{
+    background: #fff;
+    padding: 10px 30px;
+    margin: 0 10px;
+    text-decoration: none;
+    color: slateblue;
+}
